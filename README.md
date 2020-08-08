@@ -5,7 +5,7 @@
 ```
 clone the repo
 npm install
-run localhost:3000 in your poost man to consume the 
+run localhost:3000 in your postman to consume the 
 
 ```
 
