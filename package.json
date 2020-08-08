@@ -1,0 +1,15 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "Wejapa internship assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Olumide",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  }
+}
